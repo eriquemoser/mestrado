@@ -1,0 +1,4053 @@
+827
+
+1	1	4
+CV_Fecha	2	c	o
+B_Desliga	3	c	o
+underflow	1	uc	o
+Start	4	c	o
+
+827	0	3
+B_Desliga	607	c	o
+fecha	827	uc	o
+B_Liga	605	c	o
+
+826	0	2
+B_Desliga	606	c	o
+fecha	826	uc	o
+
+825	0	4
+fecha	395	uc	o
+CV_Abre	487	c	o
+regula	457	uc	o
+CV_Regula	72	c	o
+
+824	0	5
+CV_Fecha	483	c	o
+fecha	394	uc	o
+CV_Abre	485	c	o
+regula	456	uc	o
+CV_Regula	486	c	o
+
+823	0	4
+fecha	54	uc	o
+abre	50	uc	o
+CV_Abre	72	c	o
+CV_Regula	73	c	o
+
+822	0	5
+CV_Fecha	69	c	o
+fecha	53	uc	o
+abre	49	uc	o
+CV_Abre	70	c	o
+CV_Regula	71	c	o
+
+821	0	4
+CV_Fecha	69	c	o
+fecha	462	uc	o
+CV_Abre	482	c	o
+CV_Regula	71	c	o
+
+820	0	4
+CV_Fecha	499	c	o
+fecha	820	uc	o
+CV_Abre	485	c	o
+CV_Regula	70	c	o
+
+819	0	4
+CV_Fecha	497	c	o
+fecha	819	uc	o
+CV_Abre	70	c	o
+CV_Regula	498	c	o
+
+818	0	4
+CV_Fecha	495	c	o
+fecha	818	uc	o
+CV_Abre	496	c	o
+CV_Regula	486	c	o
+
+817	0	4
+CV_Fecha	69	c	o
+fecha	817	uc	o
+CV_Abre	70	c	o
+CV_Regula	71	c	o
+
+816	0	4
+CV_Fecha	483	c	o
+fecha	816	uc	o
+CV_Abre	485	c	o
+CV_Regula	486	c	o
+
+815	0	2
+B_Desliga	518	c	o
+fecha	815	uc	o
+
+814	0	2
+B_Desliga	521	c	o
+fecha	827	uc	o
+
+813	0	2
+B_Desliga	520	c	o
+fecha	826	uc	o
+
+812	0	1
+fecha	812	uc	o
+
+811	0	6
+B_Desliga	824	c	o
+fecha	372	uc	o
+B_Liga	825	c	o
+CV_Abre	460	c	o
+regula	369	uc	o
+CV_Regula	415	c	o
+
+810	0	6
+B_Desliga	822	c	o
+fecha	46	uc	o
+abre	43	uc	o
+B_Liga	823	c	o
+CV_Abre	55	c	o
+CV_Regula	56	c	o
+
+809	0	7
+CV_Fecha	393	c	o
+B_Desliga	824	c	o
+fecha	312	uc	o
+B_Liga	825	c	o
+CV_Abre	396	c	o
+regula	382	uc	o
+CV_Regula	397	c	o
+
+808	0	7
+CV_Fecha	388	c	o
+B_Desliga	822	c	o
+fecha	311	uc	o
+abre	381	uc	o
+B_Liga	823	c	o
+CV_Abre	392	c	o
+CV_Regula	391	c	o
+
+807	0	5
+CV_Fecha	388	c	o
+B_Desliga	821	c	o
+fecha	379	uc	o
+CV_Abre	390	c	o
+CV_Regula	391	c	o
+
+806	0	5
+CV_Fecha	411	c	o
+B_Desliga	820	c	o
+fecha	806	uc	o
+CV_Abre	396	c	o
+CV_Regula	392	c	o
+
+805	0	5
+CV_Fecha	407	c	o
+B_Desliga	819	c	o
+fecha	805	uc	o
+CV_Abre	392	c	o
+CV_Regula	409	c	o
+
+804	0	6
+CV_Fecha	404	c	o
+B_Desliga	434	c	o
+fecha	804	uc	o
+B_Liga	426	c	o
+CV_Abre	406	c	o
+CV_Regula	397	c	o
+
+803	0	5
+CV_Fecha	404	c	o
+B_Desliga	818	c	o
+fecha	803	uc	o
+CV_Abre	406	c	o
+CV_Regula	397	c	o
+
+802	0	5
+CV_Fecha	388	c	o
+B_Desliga	817	c	o
+fecha	802	uc	o
+CV_Abre	392	c	o
+CV_Regula	391	c	o
+
+801	0	5
+B_Desliga	425	c	o
+fecha	801	uc	o
+B_Liga	426	c	o
+CV_Abre	460	c	o
+CV_Regula	415	c	o
+
+800	0	5
+CV_Fecha	393	c	o
+B_Desliga	816	c	o
+fecha	800	uc	o
+CV_Abre	396	c	o
+CV_Regula	397	c	o
+
+799	0	2
+fecha	799	uc	o
+B_Liga	443	c	o
+
+798	0	6
+CV_Fecha	813	c	o
+B_Desliga	444	c	o
+fecha	798	uc	o
+B_Liga	440	c	o
+CV_Abre	814	c	o
+CV_Regula	815	c	o
+
+797	0	1
+fecha	812	uc	o
+
+796	0	1
+fecha	796	uc	o
+
+795	0	4
+CV_Fecha	796	c	o
+fecha	795	uc	o
+CV_Abre	339	c	o
+CV_Regula	339	c	o
+
+794	0	5
+CV_Fecha	393	c	o
+B_Desliga	413	c	o
+fecha	794	uc	o
+CV_Abre	424	c	o
+CV_Regula	397	c	o
+
+793	0	2
+fecha	793	uc	o
+d_SP	372	uc	o
+
+792	0	3
+B_Desliga	230	c	o
+fecha	792	uc	o
+B_Liga	328	c	o
+
+791	0	2
+fecha	300	uc	o
+d_SP	323	uc	o
+
+790	0	2
+fecha	300	uc	o
+d_SP	301	uc	o
+
+789	0	2
+B_Desliga	304	c	o
+B_Liga	308	c	o
+
+788	0	3
+fecha	793	uc	o
+regula	308	uc	o
+d_SP	811	uc	o
+
+787	0	3
+fecha	230	uc	o
+regula	304	uc	o
+d_SP	809	uc	o
+
+786	0	3
+fecha	326	uc	o
+abre	306	uc	o
+d_SP	810	uc	o
+
+785	0	2
+B_Desliga	302	c	o
+B_Liga	306	c	o
+
+784	0	3
+fecha	229	uc	o
+abre	302	uc	o
+d_SP	808	uc	o
+
+783	0	3
+fecha	230	uc	o
+regula	304	uc	o
+d_SP	809	uc	o
+
+782	0	3
+fecha	229	uc	o
+abre	302	uc	o
+d_SP	808	uc	o
+
+781	0	2
+fecha	300	uc	o
+d_SP	807	uc	o
+
+780	0	2
+B_Desliga	300	c	o
+fecha	758	uc	o
+
+779	0	2
+fecha	300	uc	o
+d_SP	807	uc	o
+
+778	0	4
+CV_Fecha	797	c	o
+fecha	778	uc	o
+CV_Abre	354	c	o
+CV_Regula	352	c	o
+
+777	0	2
+fecha	777	uc	o
+d_LO_LO	795	uc	o
+
+776	0	2
+fecha	776	uc	o
+d_SP	806	uc	o
+
+775	0	2
+fecha	775	uc	o
+d_SP	805	uc	o
+
+774	0	2
+fecha	774	uc	o
+d_SP	804	uc	o
+
+773	0	2
+fecha	773	uc	o
+d_SP	803	uc	o
+
+772	0	3
+fecha	772	uc	o
+CV_Abre	326	c	o
+CV_Regula	328	c	o
+
+771	0	2
+fecha	771	uc	o
+d_SP	372	uc	o
+
+770	0	2
+fecha	770	uc	o
+d_SP	802	uc	o
+
+769	0	2
+fecha	769	uc	o
+d_SP	46	uc	o
+
+768	0	2
+fecha	768	uc	o
+d_SP	801	uc	o
+
+767	0	2
+fecha	767	uc	o
+d_SP	800	uc	o
+
+766	0	4
+CV_Fecha	351	c	o
+fecha	766	uc	o
+CV_Abre	352	c	o
+CV_Regula	352	c	o
+
+765	0	6
+CV_Fecha	797	c	o
+B_Desliga	355	c	o
+fecha	798	uc	o
+B_Liga	348	c	o
+CV_Abre	799	c	o
+CV_Regula	352	c	o
+
+764	0	4
+CV_Fecha	796	c	o
+fecha	795	uc	o
+CV_Abre	339	c	o
+CV_Regula	339	c	o
+
+763	0	2
+fecha	763	uc	o
+d_LO_LO	795	uc	o
+
+762	0	2
+fecha	762	uc	o
+CV_Abre	339	c	o
+
+761	0	2
+fecha	761	uc	o
+CV_Abre	528	c	o
+
+760	0	2
+B_Desliga	255	c	o
+fecha	760	uc	o
+
+759	0	2
+fecha	759	uc	o
+d_SP	794	uc	o
+
+758	0	2
+B_Desliga	228	c	o
+fecha	758	uc	o
+
+757	0	3
+B_Desliga	230	c	o
+fecha	757	uc	o
+B_Liga	793	c	o
+
+756	0	3
+B_Desliga	229	c	o
+fecha	756	uc	o
+B_Liga	326	c	o
+
+755	0	4
+CV_Fecha	228	c	o
+fecha	755	uc	o
+CV_Abre	229	c	o
+CV_Regula	230	c	o
+
+754	0	4
+B_Desliga	252	c	o
+fecha	792	uc	o
+B_Liga	254	c	o
+regula	789	uc	o
+
+753	0	4
+B_Desliga	249	c	o
+fecha	756	uc	o
+abre	785	uc	o
+B_Liga	251	c	o
+
+752	0	2
+B_Desliga	791	c	o
+fecha	780	uc	o
+
+751	0	3
+B_Desliga	236	c	o
+fecha	751	uc	o
+B_Liga	237	c	o
+
+750	0	4
+B_Desliga	224	c	o
+fecha	702	uc	o
+B_Liga	226	c	o
+regula	789	uc	o
+
+749	0	4
+B_Desliga	220	c	o
+fecha	698	uc	o
+abre	785	uc	o
+B_Liga	223	c	o
+
+748	0	2
+B_Desliga	790	c	o
+fecha	780	uc	o
+
+747	0	4
+B_Desliga	787	c	o
+fecha	757	uc	o
+B_Liga	788	c	o
+regula	789	uc	o
+
+746	0	4
+B_Desliga	784	c	o
+fecha	756	uc	o
+abre	785	uc	o
+B_Liga	786	c	o
+
+745	0	4
+CV_Fecha	781	c	o
+fecha	755	uc	o
+CV_Abre	782	c	o
+CV_Regula	783	c	o
+
+744	0	2
+B_Desliga	779	c	o
+fecha	780	uc	o
+
+743	0	3
+B_Desliga	165	c	o
+fecha	743	uc	o
+B_Liga	169	c	o
+
+742	0	3
+B_Desliga	164	c	o
+fecha	742	uc	o
+B_Liga	168	c	o
+
+741	0	4
+B_Desliga	203	c	o
+fecha	743	uc	o
+B_Liga	204	c	o
+regula	243	uc	o
+
+740	0	4
+B_Desliga	201	c	o
+fecha	742	uc	o
+abre	241	uc	o
+B_Liga	202	c	o
+
+739	0	2
+fecha	739	uc	o
+d_LO_LO	273	uc	o
+
+738	0	2
+fecha	738	uc	o
+d_LO_LO	272	uc	o
+
+737	0	2
+fecha	737	uc	o
+d_LO_LO	766	uc	o
+
+736	0	2
+fecha	736	uc	o
+d_LO_LO	778	uc	o
+
+735	0	2
+fecha	777	uc	o
+d_LO_LO	764	uc	o
+
+734	0	2
+fecha	734	uc	o
+d_LO_LO	762	uc	o
+
+733	0	4
+CV_Fecha	776	c	o
+fecha	733	uc	o
+CV_Abre	256	c	o
+CV_Regula	229	c	o
+
+732	0	2
+B_Desliga	776	c	o
+fecha	732	uc	o
+
+731	0	5
+B_Desliga	701	c	o
+fecha	105	uc	o
+B_Liga	152	c	o
+CV_Abre	221	c	o
+CV_Regula	225	c	o
+
+730	0	4
+CV_Fecha	775	c	o
+fecha	730	uc	o
+CV_Abre	229	c	o
+CV_Regula	230	c	o
+
+729	0	2
+B_Desliga	775	c	o
+fecha	729	uc	o
+
+728	0	3
+B_Desliga	774	c	o
+fecha	728	uc	o
+B_Liga	262	c	o
+
+727	0	4
+CV_Fecha	773	c	o
+fecha	727	uc	o
+CV_Abre	774	c	o
+CV_Regula	259	c	o
+
+726	0	2
+B_Desliga	773	c	o
+fecha	726	uc	o
+
+725	0	5
+B_Desliga	701	c	o
+fecha	725	uc	o
+B_Liga	772	c	o
+CV_Abre	250	c	o
+CV_Regula	253	c	o
+
+724	0	3
+B_Desliga	233	c	o
+fecha	724	uc	o
+B_Liga	239	c	o
+
+723	0	3
+B_Desliga	234	c	o
+fecha	723	uc	o
+B_Liga	235	c	o
+
+722	0	3
+fecha	722	uc	o
+CV_Abre	769	c	o
+CV_Regula	771	c	o
+
+721	0	4
+CV_Fecha	228	c	o
+fecha	721	uc	o
+CV_Abre	229	c	o
+CV_Regula	233	c	o
+
+720	0	2
+B_Desliga	770	c	o
+fecha	720	uc	o
+
+719	0	3
+B_Desliga	259	c	o
+fecha	719	uc	o
+B_Liga	238	c	o
+
+718	0	3
+B_Desliga	260	c	o
+fecha	718	uc	o
+B_Liga	261	c	o
+
+717	0	3
+fecha	717	uc	o
+CV_Abre	768	c	o
+CV_Regula	769	c	o
+
+716	0	4
+CV_Fecha	255	c	o
+fecha	716	uc	o
+CV_Abre	256	c	o
+CV_Regula	259	c	o
+
+715	0	2
+B_Desliga	767	c	o
+fecha	715	uc	o
+
+714	0	2
+fecha	714	uc	o
+d_LO_LO	766	uc	o
+
+713	0	2
+fecha	713	uc	o
+d_LO_LO	765	uc	o
+
+712	0	2
+fecha	763	uc	o
+d_LO_LO	764	uc	o
+
+711	0	2
+fecha	711	uc	o
+d_LO_LO	762	uc	o
+
+710	0	2
+fecha	710	uc	o
+d_LO_LO	267	uc	o
+
+709	0	2
+fecha	709	uc	o
+d_LO_LO	761	uc	o
+
+708	0	2
+fecha	708	uc	o
+d_LO_LO	265	uc	o
+
+707	0	2
+fecha	707	uc	o
+d_LO_LO	263	uc	o
+
+706	0	1
+fecha	745	uc	o
+
+705	0	3
+B_Desliga	256	c	o
+fecha	705	uc	o
+B_Liga	262	c	o
+
+704	0	4
+CV_Fecha	255	c	o
+fecha	159	uc	o
+CV_Abre	256	c	o
+CV_Regula	229	c	o
+
+703	0	2
+B_Desliga	255	c	o
+fecha	760	uc	o
+
+702	0	3
+B_Desliga	230	c	o
+fecha	702	uc	o
+B_Liga	239	c	o
+
+701	0	4
+CV_Fecha	228	c	o
+fecha	148	uc	o
+CV_Abre	229	c	o
+CV_Regula	230	c	o
+
+700	0	2
+B_Desliga	228	c	o
+fecha	758	uc	o
+
+699	0	3
+B_Desliga	233	c	o
+fecha	699	uc	o
+B_Liga	328	c	o
+
+698	0	3
+B_Desliga	229	c	o
+fecha	698	uc	o
+B_Liga	238	c	o
+
+697	0	4
+CV_Fecha	231	c	o
+fecha	755	uc	o
+CV_Abre	232	c	o
+CV_Regula	759	c	o
+
+696	0	2
+B_Desliga	231	c	o
+fecha	758	uc	o
+
+695	0	5
+CV_Fecha	700	c	o
+B_Desliga	755	c	o
+fecha	695	uc	o
+CV_Abre	756	c	o
+CV_Regula	757	c	o
+
+694	0	5
+CV_Fecha	752	c	o
+B_Desliga	155	c	o
+B_Liga	156	c	o
+CV_Abre	753	c	o
+CV_Regula	754	c	o
+
+693	0	5
+CV_Fecha	715	c	o
+B_Desliga	160	c	o
+fecha	693	uc	o
+CV_Abre	718	c	o
+CV_Regula	723	c	o
+
+692	0	5
+CV_Fecha	720	c	o
+B_Desliga	149	c	o
+fecha	692	uc	o
+CV_Abre	723	c	o
+CV_Regula	751	c	o
+
+691	0	5
+CV_Fecha	748	c	o
+B_Desliga	144	c	o
+B_Liga	145	c	o
+CV_Abre	749	c	o
+CV_Regula	750	c	o
+
+690	0	1
+fecha	745	uc	o
+
+689	0	5
+CV_Fecha	744	c	o
+B_Desliga	745	c	o
+fecha	695	uc	o
+CV_Abre	746	c	o
+CV_Regula	747	c	o
+
+688	0	4
+fecha	122	uc	o
+CV_Abre	169	c	o
+regula	141	uc	o
+CV_Regula	173	c	o
+
+687	0	5
+CV_Fecha	170	c	o
+fecha	121	uc	o
+CV_Abre	171	c	o
+regula	140	uc	o
+CV_Regula	172	c	o
+
+686	0	4
+fecha	117	uc	o
+abre	136	uc	o
+CV_Abre	168	c	o
+CV_Regula	169	c	o
+
+685	0	5
+CV_Fecha	176	c	o
+fecha	124	uc	o
+abre	135	uc	o
+CV_Abre	177	c	o
+CV_Regula	178	c	o
+
+684	0	4
+CV_Fecha	163	c	o
+fecha	131	uc	o
+CV_Abre	164	c	o
+CV_Regula	165	c	o
+
+683	0	2
+fecha	162	uc	o
+regula	156	uc	o
+
+682	0	2
+fecha	159	uc	o
+regula	155	uc	o
+
+681	0	2
+fecha	152	uc	o
+abre	145	uc	o
+
+680	0	2
+fecha	148	uc	o
+abre	144	uc	o
+
+679	0	2
+fecha	122	uc	o
+regula	141	uc	o
+
+678	0	2
+fecha	121	uc	o
+regula	140	uc	o
+
+677	0	2
+fecha	117	uc	o
+abre	136	uc	o
+
+676	0	2
+fecha	116	uc	o
+abre	135	uc	o
+
+675	0	1
+fecha	131	uc	o
+
+674	0	5
+B_Desliga	116	c	o
+fecha	674	uc	o
+B_Liga	117	c	o
+CV_Abre	742	c	o
+CV_Regula	743	c	o
+
+673	0	4
+B_Desliga	135	c	o
+B_Liga	136	c	o
+CV_Abre	740	c	o
+CV_Regula	741	c	o
+
+672	0	3
+fecha	672	uc	o
+CV_Abre	166	c	o
+CV_Regula	167	c	o
+
+671	0	3
+B_Desliga	738	c	o
+fecha	671	uc	o
+B_Liga	739	c	o
+
+670	0	4
+CV_Fecha	735	c	o
+fecha	670	uc	o
+CV_Abre	736	c	o
+CV_Regula	737	c	o
+
+669	0	2
+B_Desliga	734	c	o
+fecha	669	uc	o
+
+668	0	5
+CV_Fecha	669	c	o
+B_Desliga	670	c	o
+fecha	668	uc	o
+CV_Abre	123	c	o
+CV_Regula	671	c	o
+
+667	0	6
+CV_Fecha	732	c	o
+B_Desliga	733	c	o
+fecha	667	uc	o
+B_Liga	162	c	o
+CV_Abre	705	c	o
+CV_Regula	698	c	o
+
+666	0	2
+fecha	666	uc	o
+d_HI	731	uc	o
+
+665	0	6
+CV_Fecha	729	c	o
+B_Desliga	730	c	o
+fecha	665	uc	o
+B_Liga	152	c	o
+CV_Abre	698	c	o
+CV_Regula	702	c	o
+
+664	0	2
+fecha	664	uc	o
+d_HI	665	uc	o
+
+663	0	6
+CV_Fecha	726	c	o
+B_Desliga	727	c	o
+fecha	663	uc	o
+B_Liga	162	c	o
+CV_Abre	728	c	o
+CV_Regula	719	c	o
+
+662	0	2
+fecha	662	uc	o
+d_HI	725	uc	o
+
+661	0	6
+CV_Fecha	720	c	o
+B_Desliga	721	c	o
+fecha	661	uc	o
+B_Liga	722	c	o
+CV_Abre	723	c	o
+CV_Regula	724	c	o
+
+660	0	2
+fecha	660	uc	o
+d_HI	661	uc	o
+
+659	0	6
+CV_Fecha	715	c	o
+B_Desliga	716	c	o
+fecha	659	uc	o
+B_Liga	717	c	o
+CV_Abre	718	c	o
+CV_Regula	719	c	o
+
+658	0	4
+CV_Fecha	176	c	o
+fecha	658	uc	o
+CV_Abre	177	c	o
+CV_Regula	178	c	o
+
+657	0	4
+CV_Fecha	170	c	o
+fecha	657	uc	o
+CV_Abre	171	c	o
+CV_Regula	172	c	o
+
+656	0	3
+B_Desliga	708	c	o
+fecha	656	uc	o
+B_Liga	710	c	o
+
+655	0	3
+B_Desliga	165	c	o
+fecha	655	uc	o
+B_Liga	709	c	o
+
+654	0	3
+fecha	654	uc	o
+CV_Abre	709	c	o
+CV_Regula	710	c	o
+
+653	0	3
+B_Desliga	708	c	o
+fecha	653	uc	o
+B_Liga	173	c	o
+
+652	0	4
+CV_Fecha	707	c	o
+fecha	652	uc	o
+CV_Abre	165	c	o
+CV_Regula	708	c	o
+
+651	0	3
+fecha	651	uc	o
+CV_Abre	166	c	o
+CV_Regula	167	c	o
+
+650	0	4
+CV_Fecha	712	c	o
+fecha	650	uc	o
+CV_Abre	713	c	o
+CV_Regula	714	c	o
+
+649	0	2
+B_Desliga	711	c	o
+fecha	649	uc	o
+
+648	0	5
+CV_Fecha	649	c	o
+B_Desliga	650	c	o
+fecha	648	uc	o
+CV_Abre	640	c	o
+CV_Regula	123	c	o
+
+647	0	4
+CV_Fecha	176	c	o
+fecha	647	uc	o
+CV_Abre	177	c	o
+CV_Regula	178	c	o
+
+646	0	3
+fecha	646	uc	o
+CV_Abre	168	c	o
+CV_Regula	169	c	o
+
+645	0	4
+CV_Fecha	163	c	o
+fecha	645	uc	o
+CV_Abre	164	c	o
+CV_Regula	165	c	o
+
+644	0	3
+B_Desliga	708	c	o
+fecha	644	uc	o
+B_Liga	710	c	o
+
+643	0	3
+B_Desliga	165	c	o
+fecha	643	uc	o
+B_Liga	709	c	o
+
+642	0	4
+CV_Fecha	707	c	o
+fecha	642	uc	o
+CV_Abre	165	c	o
+CV_Regula	708	c	o
+
+641	0	2
+B_Desliga	707	c	o
+fecha	641	uc	o
+
+640	0	3
+B_Desliga	179	c	o
+fecha	640	uc	o
+B_Liga	180	c	o
+
+639	0	2
+B_Desliga	176	c	o
+fecha	639	uc	o
+
+638	0	4
+B_Desliga	682	c	o
+fecha	693	uc	o
+B_Liga	683	c	o
+regula	694	uc	o
+
+637	0	4
+B_Desliga	680	c	o
+fecha	692	uc	o
+abre	691	uc	o
+B_Liga	681	c	o
+
+636	0	2
+B_Desliga	706	c	o
+fecha	689	uc	o
+
+635	0	6
+CV_Fecha	703	c	o
+B_Desliga	704	c	o
+fecha	693	uc	o
+B_Liga	162	c	o
+CV_Abre	705	c	o
+CV_Regula	698	c	o
+
+634	0	6
+CV_Fecha	700	c	o
+B_Desliga	701	c	o
+fecha	692	uc	o
+B_Liga	152	c	o
+CV_Abre	698	c	o
+CV_Regula	702	c	o
+
+633	0	2
+fecha	633	uc	o
+d_HI	634	uc	o
+
+632	0	5
+CV_Fecha	696	c	o
+B_Desliga	697	c	o
+fecha	695	uc	o
+CV_Abre	698	c	o
+CV_Regula	699	c	o
+
+631	0	2
+fecha	631	uc	o
+d_HI	695	uc	o
+
+630	0	1
+d_HI	694	uc	o
+
+629	0	4
+B_Desliga	109	c	o
+fecha	693	uc	o
+B_Liga	111	c	o
+regula	694	uc	o
+
+628	0	4
+B_Desliga	104	c	o
+fecha	692	uc	o
+abre	691	uc	o
+B_Liga	106	c	o
+
+627	0	1
+d_HI	691	uc	o
+
+626	0	2
+fecha	626	uc	o
+d_HI	634	uc	o
+
+625	0	2
+B_Desliga	690	c	o
+fecha	689	uc	o
+
+624	0	2
+fecha	631	uc	o
+d_HI	689	uc	o
+
+623	0	5
+B_Desliga	687	c	o
+fecha	91	uc	o
+B_Liga	688	c	o
+CV_Abre	126	c	o
+regula	107	uc	o
+
+622	0	5
+B_Desliga	685	c	o
+fecha	90	uc	o
+abre	673	uc	o
+B_Liga	686	c	o
+CV_Abre	125	c	o
+
+621	0	6
+CV_Fecha	120	c	o
+B_Desliga	687	c	o
+fecha	89	uc	o
+B_Liga	688	c	o
+CV_Abre	123	c	o
+regula	100	uc	o
+
+620	0	6
+CV_Fecha	639	c	o
+B_Desliga	685	c	o
+fecha	575	uc	o
+abre	97	uc	o
+B_Liga	686	c	o
+CV_Abre	640	c	o
+
+619	0	5
+CV_Fecha	112	c	o
+B_Desliga	684	c	o
+fecha	95	uc	o
+CV_Abre	114	c	o
+CV_Regula	115	c	o
+
+618	0	4
+B_Desliga	682	c	o
+fecha	110	uc	o
+B_Liga	683	c	o
+regula	108	uc	o
+
+617	0	4
+B_Desliga	678	c	o
+fecha	91	uc	o
+B_Liga	679	c	o
+regula	107	uc	o
+
+616	0	2
+fecha	616	uc	o
+d_LO	91	uc	o
+
+615	0	4
+B_Desliga	680	c	o
+fecha	105	uc	o
+abre	103	uc	o
+B_Liga	681	c	o
+
+614	0	4
+B_Desliga	676	c	o
+fecha	674	uc	o
+abre	673	uc	o
+B_Liga	677	c	o
+
+613	0	2
+fecha	613	uc	o
+d_LO	674	uc	o
+
+612	0	4
+B_Desliga	678	c	o
+fecha	89	uc	o
+B_Liga	679	c	o
+regula	100	uc	o
+
+611	0	4
+B_Desliga	676	c	o
+fecha	88	uc	o
+abre	97	uc	o
+B_Liga	677	c	o
+
+610	0	2
+B_Desliga	675	c	o
+fecha	95	uc	o
+
+609	0	4
+B_Desliga	98	c	o
+fecha	674	uc	o
+abre	673	uc	o
+B_Liga	99	c	o
+
+608	0	1
+u_LO	673	uc	o
+
+607	0	1
+fecha	607	uc	o
+
+606	0	1
+fecha	606	uc	o
+
+605	0	1
+fecha	605	uc	o
+
+604	0	1
+fecha	604	uc	o
+
+603	0	1
+fecha	603	uc	o
+
+602	0	1
+fecha	602	uc	o
+
+601	0	1
+fecha	601	uc	o
+
+600	0	5
+B_Desliga	645	c	o
+fecha	600	uc	o
+B_Liga	672	c	o
+CV_Abre	240	c	o
+CV_Regula	242	c	o
+
+599	0	6
+CV_Fecha	112	c	o
+B_Desliga	645	c	o
+fecha	599	uc	o
+B_Liga	672	c	o
+CV_Abre	114	c	o
+CV_Regula	115	c	o
+
+598	0	5
+CV_Fecha	669	c	o
+B_Desliga	670	c	o
+fecha	668	uc	o
+CV_Abre	123	c	o
+CV_Regula	671	c	o
+
+597	0	2
+fecha	597	uc	o
+d_LO	668	uc	o
+
+596	0	2
+fecha	596	uc	o
+d_HI	667	uc	o
+
+595	0	3
+B_Desliga	664	c	o
+fecha	595	uc	o
+B_Liga	666	c	o
+
+594	0	2
+fecha	664	uc	o
+d_HI	665	uc	o
+
+593	0	2
+fecha	593	uc	o
+d_HI	663	uc	o
+
+592	0	3
+B_Desliga	660	c	o
+fecha	592	uc	o
+B_Liga	662	c	o
+
+591	0	2
+fecha	660	uc	o
+d_HI	661	uc	o
+
+590	0	2
+fecha	590	uc	o
+d_HI	659	uc	o
+
+589	0	4
+CV_Fecha	639	c	o
+B_Desliga	658	c	o
+fecha	589	uc	o
+CV_Abre	640	c	o
+
+588	0	5
+CV_Fecha	641	c	o
+B_Desliga	642	c	o
+fecha	588	uc	o
+CV_Abre	119	c	o
+CV_Regula	653	c	o
+
+587	0	5
+CV_Fecha	639	c	o
+B_Desliga	647	c	o
+fecha	587	uc	o
+B_Liga	646	c	o
+CV_Abre	640	c	o
+
+586	0	4
+CV_Fecha	120	c	o
+B_Desliga	657	c	o
+fecha	586	uc	o
+CV_Abre	123	c	o
+
+585	0	5
+B_Desliga	652	c	o
+fecha	585	uc	o
+B_Liga	654	c	o
+CV_Abre	655	c	o
+CV_Regula	656	c	o
+
+584	0	6
+CV_Fecha	641	c	o
+B_Desliga	652	c	o
+fecha	584	uc	o
+B_Liga	122	c	o
+CV_Abre	119	c	o
+CV_Regula	653	c	o
+
+583	0	5
+B_Desliga	116	c	o
+fecha	583	uc	o
+B_Liga	651	c	o
+CV_Abre	240	c	o
+CV_Regula	242	c	o
+
+582	0	6
+CV_Fecha	112	c	o
+B_Desliga	116	c	o
+fecha	582	uc	o
+B_Liga	651	c	o
+CV_Abre	114	c	o
+CV_Regula	115	c	o
+
+581	0	5
+CV_Fecha	649	c	o
+B_Desliga	650	c	o
+fecha	648	uc	o
+CV_Abre	640	c	o
+CV_Regula	123	c	o
+
+580	0	2
+fecha	580	uc	o
+d_LO	648	uc	o
+
+579	0	5
+CV_Fecha	112	c	o
+B_Desliga	113	c	o
+fecha	579	uc	o
+CV_Abre	118	c	o
+CV_Regula	119	c	o
+
+578	0	4
+B_Desliga	647	c	o
+fecha	578	uc	o
+B_Liga	646	c	o
+CV_Abre	125	c	o
+
+577	0	6
+CV_Fecha	112	c	o
+B_Desliga	645	c	o
+fecha	577	uc	o
+B_Liga	646	c	o
+CV_Abre	118	c	o
+CV_Regula	119	c	o
+
+576	0	5
+CV_Fecha	641	c	o
+B_Desliga	642	c	o
+fecha	576	uc	o
+CV_Abre	643	c	o
+CV_Regula	644	c	o
+
+575	0	5
+CV_Fecha	639	c	o
+B_Desliga	124	c	o
+fecha	575	uc	o
+B_Liga	117	c	o
+CV_Abre	640	c	o
+
+574	0	3
+fecha	568	uc	o
+d_HI	638	uc	o
+regula	630	uc	o
+
+573	0	2
+B_Desliga	633	c	o
+fecha	573	uc	o
+
+572	0	3
+fecha	633	uc	o
+abre	627	uc	o
+d_HI	637	uc	o
+
+571	0	3
+fecha	568	uc	o
+d_HI	638	uc	o
+regula	630	uc	o
+
+570	0	3
+fecha	633	uc	o
+abre	627	uc	o
+d_HI	637	uc	o
+
+569	0	2
+fecha	624	uc	o
+d_HI	636	uc	o
+
+568	0	2
+fecha	568	uc	o
+d_HI	635	uc	o
+
+567	0	2
+fecha	626	uc	o
+d_HI	634	uc	o
+
+566	0	2
+fecha	631	uc	o
+d_HI	632	uc	o
+
+565	0	2
+fecha	565	uc	o
+d_HI	635	uc	o
+
+564	0	2
+fecha	633	uc	o
+d_HI	634	uc	o
+
+563	0	2
+fecha	631	uc	o
+d_HI	632	uc	o
+
+562	0	1
+B_Desliga	630	c	o
+
+561	0	3
+fecha	568	uc	o
+d_HI	629	uc	o
+regula	630	uc	o
+
+560	0	1
+B_Desliga	627	c	o
+
+559	0	2
+B_Desliga	626	c	o
+fecha	559	uc	o
+
+558	0	3
+fecha	626	uc	o
+abre	627	uc	o
+d_HI	628	uc	o
+
+557	0	3
+fecha	568	uc	o
+d_HI	629	uc	o
+regula	630	uc	o
+
+556	0	3
+fecha	626	uc	o
+abre	627	uc	o
+d_HI	628	uc	o
+
+555	0	2
+fecha	624	uc	o
+d_HI	625	uc	o
+
+554	0	3
+B_Desliga	71	c	o
+fecha	554	uc	o
+B_Liga	616	c	o
+
+553	0	3
+B_Desliga	70	c	o
+fecha	553	uc	o
+B_Liga	613	c	o
+
+552	0	2
+fecha	77	uc	o
+d_LO	610	uc	o
+
+551	0	2
+fecha	77	uc	o
+d_LO	78	uc	o
+
+550	0	2
+B_Desliga	81	c	o
+B_Liga	85	c	o
+
+549	0	3
+fecha	73	uc	o
+regula	85	uc	o
+d_LO	623	uc	o
+
+548	0	3
+fecha	71	uc	o
+regula	81	uc	o
+d_LO	621	uc	o
+
+547	0	3
+fecha	72	uc	o
+abre	83	uc	o
+d_LO	622	uc	o
+
+546	0	2
+B_Desliga	79	c	o
+B_Liga	83	c	o
+
+545	0	3
+fecha	482	uc	o
+abre	79	uc	o
+d_LO	620	uc	o
+
+544	0	3
+fecha	71	uc	o
+regula	81	uc	o
+d_LO	621	uc	o
+
+543	0	3
+fecha	482	uc	o
+abre	79	uc	o
+d_LO	620	uc	o
+
+542	0	2
+fecha	77	uc	o
+d_LO	619	uc	o
+
+541	0	2
+B_Desliga	77	c	o
+fecha	481	uc	o
+
+540	0	2
+fecha	77	uc	o
+d_LO	619	uc	o
+
+539	0	4
+fecha	616	uc	o
+regula	85	uc	o
+d_LO	617	uc	o
+u_HI	618	uc	o
+
+538	0	3
+B_Desliga	71	c	o
+fecha	538	uc	o
+B_Liga	616	c	o
+
+537	0	3
+fecha	71	uc	o
+regula	81	uc	o
+d_LO	612	uc	o
+
+536	0	4
+fecha	613	uc	o
+abre	83	uc	o
+d_LO	614	uc	o
+u_HI	615	uc	o
+
+535	0	3
+B_Desliga	70	c	o
+fecha	535	uc	o
+B_Liga	613	c	o
+
+534	0	3
+fecha	70	uc	o
+abre	79	uc	o
+d_LO	611	uc	o
+
+533	0	4
+fecha	616	uc	o
+regula	85	uc	o
+d_LO	617	uc	o
+u_HI	618	uc	o
+
+532	0	4
+fecha	613	uc	o
+abre	83	uc	o
+d_LO	614	uc	o
+u_HI	615	uc	o
+
+531	0	3
+fecha	71	uc	o
+regula	81	uc	o
+d_LO	612	uc	o
+
+530	0	3
+fecha	70	uc	o
+abre	79	uc	o
+d_LO	611	uc	o
+
+529	0	2
+fecha	77	uc	o
+d_LO	610	uc	o
+
+528	0	1
+fecha	528	uc	o
+
+527	0	1
+B_Liga	608	c	o
+
+526	0	3
+fecha	437	uc	o
+abre	608	uc	o
+u_LO	609	uc	o
+
+525	0	3
+fecha	437	uc	o
+abre	608	uc	o
+u_LO	609	uc	o
+
+524	0	1
+B_Liga	608	c	o
+
+523	0	1
+B_Liga	14	c	o
+
+522	0	3
+B_Desliga	607	c	o
+fecha	522	uc	o
+B_Liga	605	c	o
+
+521	0	1
+fecha	607	uc	o
+
+520	0	1
+fecha	606	uc	o
+
+519	0	3
+B_Desliga	604	c	o
+fecha	519	uc	o
+B_Liga	605	c	o
+
+518	0	1
+fecha	518	uc	o
+
+517	0	1
+fecha	604	uc	o
+
+516	0	1
+fecha	603	uc	o
+
+515	0	3
+B_Desliga	601	c	o
+fecha	515	uc	o
+B_Liga	602	c	o
+
+514	0	3
+B_Desliga	601	c	o
+fecha	514	uc	o
+B_Liga	602	c	o
+
+513	0	1
+fecha	601	uc	o
+
+512	0	2
+fecha	512	uc	o
+d_LO	600	uc	o
+
+511	0	2
+fecha	511	uc	o
+d_LO	577	uc	o
+
+510	0	2
+fecha	510	uc	o
+d_LO	599	uc	o
+
+509	0	2
+fecha	597	uc	o
+d_LO	598	uc	o
+
+508	0	2
+fecha	508	uc	o
+d_LO	588	uc	o
+
+507	0	2
+B_Desliga	596	c	o
+fecha	507	uc	o
+
+506	0	2
+B_Desliga	594	c	o
+fecha	595	uc	o
+
+505	0	4
+CV_Fecha	563	c	o
+fecha	505	uc	o
+CV_Abre	567	c	o
+CV_Regula	593	c	o
+
+504	0	2
+B_Desliga	593	c	o
+fecha	504	uc	o
+
+503	0	2
+B_Desliga	591	c	o
+fecha	592	uc	o
+
+502	0	4
+CV_Fecha	563	c	o
+fecha	502	uc	o
+CV_Abre	564	c	o
+CV_Regula	590	c	o
+
+501	0	2
+fecha	501	uc	o
+d_LO	589	uc	o
+
+500	0	2
+fecha	500	uc	o
+d_LO	587	uc	o
+
+499	0	2
+fecha	499	uc	o
+d_LO	588	uc	o
+
+498	0	2
+fecha	498	uc	o
+d_LO	584	uc	o
+
+497	0	2
+fecha	497	uc	o
+d_LO	579	uc	o
+
+496	0	2
+fecha	496	uc	o
+d_LO	587	uc	o
+
+495	0	2
+fecha	495	uc	o
+d_LO	586	uc	o
+
+494	0	2
+fecha	494	uc	o
+d_LO	585	uc	o
+
+493	0	2
+fecha	493	uc	o
+d_LO	584	uc	o
+
+492	0	2
+fecha	492	uc	o
+d_LO	583	uc	o
+
+491	0	2
+fecha	491	uc	o
+d_LO	88	uc	o
+
+490	0	2
+fecha	490	uc	o
+d_LO	582	uc	o
+
+489	0	2
+fecha	580	uc	o
+d_LO	581	uc	o
+
+488	0	2
+fecha	488	uc	o
+d_LO	579	uc	o
+
+487	0	2
+fecha	487	uc	o
+d_LO	578	uc	o
+
+486	0	2
+fecha	486	uc	o
+d_LO	575	uc	o
+
+485	0	2
+fecha	485	uc	o
+d_LO	577	uc	o
+
+484	0	2
+B_Desliga	483	c	o
+fecha	484	uc	o
+
+483	0	2
+fecha	483	uc	o
+d_LO	576	uc	o
+
+482	0	2
+fecha	482	uc	o
+d_LO	575	uc	o
+
+481	0	2
+B_Desliga	69	c	o
+fecha	481	uc	o
+
+480	0	3
+B_Desliga	574	c	o
+fecha	477	uc	o
+regula	562	uc	o
+
+479	0	3
+B_Desliga	572	c	o
+fecha	573	uc	o
+abre	560	uc	o
+
+478	0	3
+CV_Fecha	569	c	o
+CV_Abre	570	c	o
+CV_Regula	571	c	o
+
+477	0	2
+B_Desliga	568	c	o
+fecha	477	uc	o
+
+476	0	2
+B_Desliga	567	c	o
+fecha	559	uc	o
+
+475	0	4
+CV_Fecha	566	c	o
+fecha	474	uc	o
+CV_Abre	567	c	o
+CV_Regula	568	c	o
+
+474	0	4
+CV_Fecha	563	c	o
+fecha	474	uc	o
+CV_Abre	564	c	o
+CV_Regula	565	c	o
+
+473	0	3
+B_Desliga	561	c	o
+fecha	477	uc	o
+regula	562	uc	o
+
+472	0	3
+B_Desliga	558	c	o
+fecha	559	uc	o
+abre	560	uc	o
+
+471	0	3
+CV_Fecha	555	c	o
+CV_Abre	556	c	o
+CV_Regula	557	c	o
+
+470	0	4
+B_Desliga	537	c	o
+fecha	554	uc	o
+B_Liga	539	c	o
+regula	550	uc	o
+
+469	0	4
+B_Desliga	534	c	o
+fecha	553	uc	o
+abre	546	uc	o
+B_Liga	536	c	o
+
+468	0	2
+B_Desliga	552	c	o
+fecha	541	uc	o
+
+467	0	4
+B_Desliga	66	c	o
+fecha	391	uc	o
+B_Liga	67	c	o
+regula	550	uc	o
+
+466	0	4
+B_Desliga	63	c	o
+fecha	392	uc	o
+abre	546	uc	o
+B_Liga	65	c	o
+
+465	0	2
+B_Desliga	551	c	o
+fecha	541	uc	o
+
+464	0	4
+B_Desliga	548	c	o
+fecha	391	uc	o
+B_Liga	549	c	o
+regula	550	uc	o
+
+463	0	4
+B_Desliga	545	c	o
+fecha	390	uc	o
+abre	546	uc	o
+B_Liga	547	c	o
+
+462	0	4
+CV_Fecha	542	c	o
+fecha	389	uc	o
+CV_Abre	543	c	o
+CV_Regula	544	c	o
+
+461	0	2
+B_Desliga	540	c	o
+fecha	541	uc	o
+
+460	0	3
+B_Desliga	485	c	o
+fecha	460	uc	o
+B_Liga	487	c	o
+
+459	0	4
+B_Desliga	537	c	o
+fecha	538	uc	o
+B_Liga	539	c	o
+regula	68	uc	o
+
+458	0	4
+B_Desliga	534	c	o
+fecha	535	uc	o
+abre	64	uc	o
+B_Liga	536	c	o
+
+457	0	2
+CV_Abre	532	c	o
+CV_Regula	533	c	o
+
+456	0	3
+CV_Fecha	529	c	o
+CV_Abre	530	c	o
+CV_Regula	531	c	o
+
+455	0	2
+fecha	528	uc	o
+abre	527	uc	o
+
+454	0	3
+fecha	344	uc	o
+abre	527	uc	o
+B_Liga	526	c	o
+
+453	0	2
+fecha	339	uc	o
+abre	524	uc	o
+
+452	0	3
+fecha	342	uc	o
+abre	524	uc	o
+B_Liga	526	c	o
+
+451	0	1
+CV_Abre	525	c	o
+
+450	0	2
+fecha	339	uc	o
+abre	524	uc	o
+
+449	0	2
+abre	523	uc	o
+B_Liga	30	c	o
+
+448	0	1
+CV_Abre	30	c	o
+
+447	0	2
+B_Desliga	521	c	o
+fecha	522	uc	o
+
+446	0	1
+fecha	446	uc	o
+
+445	0	1
+fecha	445	uc	o
+
+444	0	4
+CV_Fecha	520	c	o
+fecha	444	uc	o
+CV_Abre	521	c	o
+CV_Regula	518	c	o
+
+443	0	1
+fecha	443	uc	o
+
+442	0	2
+B_Desliga	518	c	o
+fecha	442	uc	o
+
+441	0	2
+B_Desliga	517	c	o
+fecha	519	uc	o
+
+440	0	1
+fecha	440	uc	o
+
+439	0	4
+CV_Fecha	516	c	o
+fecha	439	uc	o
+CV_Abre	517	c	o
+CV_Regula	518	c	o
+
+438	0	2
+B_Desliga	513	c	o
+fecha	515	uc	o
+
+437	0	1
+fecha	437	uc	o
+
+436	0	2
+B_Desliga	513	c	o
+fecha	514	uc	o
+
+435	0	1
+fecha	435	uc	o
+
+434	0	4
+CV_Fecha	495	c	o
+fecha	434	uc	o
+CV_Abre	496	c	o
+CV_Regula	486	c	o
+
+433	0	4
+CV_Fecha	499	c	o
+fecha	433	uc	o
+CV_Abre	485	c	o
+CV_Regula	70	c	o
+
+432	0	2
+B_Desliga	501	c	o
+fecha	432	uc	o
+
+431	0	4
+CV_Fecha	483	c	o
+fecha	431	uc	o
+CV_Abre	500	c	o
+CV_Regula	486	c	o
+
+430	0	3
+B_Desliga	511	c	o
+fecha	430	uc	o
+B_Liga	512	c	o
+
+429	0	4
+CV_Fecha	509	c	o
+fecha	429	uc	o
+CV_Abre	510	c	o
+CV_Regula	486	c	o
+
+428	0	2
+B_Desliga	508	c	o
+fecha	428	uc	o
+
+427	0	5
+CV_Fecha	428	c	o
+B_Desliga	429	c	o
+fecha	427	uc	o
+CV_Abre	430	c	o
+CV_Regula	401	c	o
+
+426	0	3
+fecha	426	uc	o
+CV_Abre	487	c	o
+CV_Regula	72	c	o
+
+425	0	4
+CV_Fecha	483	c	o
+fecha	425	uc	o
+CV_Abre	485	c	o
+CV_Regula	486	c	o
+
+424	0	3
+B_Desliga	500	c	o
+fecha	424	uc	o
+B_Liga	487	c	o
+
+423	0	4
+CV_Fecha	483	c	o
+fecha	423	uc	o
+CV_Abre	500	c	o
+CV_Regula	486	c	o
+
+422	0	4
+B_Desliga	505	c	o
+fecha	422	uc	o
+CV_Abre	506	c	o
+CV_Regula	507	c	o
+
+421	0	2
+fecha	505	uc	o
+regula	478	uc	o
+
+420	0	4
+B_Desliga	502	c	o
+fecha	420	uc	o
+CV_Abre	503	c	o
+CV_Regula	504	c	o
+
+419	0	2
+fecha	502	uc	o
+abre	471	uc	o
+
+418	0	1
+fecha	462	uc	o
+
+417	0	3
+B_Desliga	496	c	o
+fecha	417	uc	o
+B_Liga	487	c	o
+
+416	0	4
+CV_Fecha	501	c	o
+fecha	416	uc	o
+CV_Abre	486	c	o
+CV_Regula	71	c	o
+
+415	0	3
+B_Desliga	486	c	o
+fecha	415	uc	o
+B_Liga	72	c	o
+
+414	0	3
+B_Desliga	500	c	o
+fecha	414	uc	o
+B_Liga	487	c	o
+
+413	0	4
+CV_Fecha	483	c	o
+fecha	413	uc	o
+CV_Abre	500	c	o
+CV_Regula	486	c	o
+
+412	0	4
+CV_Fecha	499	c	o
+fecha	412	uc	o
+CV_Abre	485	c	o
+CV_Regula	70	c	o
+
+411	0	2
+B_Desliga	499	c	o
+fecha	411	uc	o
+
+410	0	3
+B_Desliga	482	c	o
+fecha	410	uc	o
+B_Liga	72	c	o
+
+409	0	3
+B_Desliga	498	c	o
+fecha	409	uc	o
+B_Liga	73	c	o
+
+408	0	4
+CV_Fecha	497	c	o
+fecha	408	uc	o
+CV_Abre	70	c	o
+CV_Regula	498	c	o
+
+407	0	2
+B_Desliga	497	c	o
+fecha	407	uc	o
+
+406	0	3
+B_Desliga	496	c	o
+fecha	406	uc	o
+B_Liga	487	c	o
+
+405	0	4
+CV_Fecha	495	c	o
+fecha	405	uc	o
+CV_Abre	496	c	o
+CV_Regula	486	c	o
+
+404	0	2
+B_Desliga	495	c	o
+fecha	404	uc	o
+
+403	0	4
+CV_Fecha	69	c	o
+fecha	403	uc	o
+CV_Abre	482	c	o
+CV_Regula	71	c	o
+
+402	0	3
+B_Desliga	493	c	o
+fecha	402	uc	o
+B_Liga	494	c	o
+
+401	0	3
+B_Desliga	491	c	o
+fecha	401	uc	o
+B_Liga	492	c	o
+
+400	0	4
+CV_Fecha	489	c	o
+fecha	400	uc	o
+CV_Abre	490	c	o
+CV_Regula	71	c	o
+
+399	0	2
+B_Desliga	488	c	o
+fecha	399	uc	o
+
+398	0	5
+CV_Fecha	399	c	o
+B_Desliga	400	c	o
+fecha	398	uc	o
+CV_Abre	401	c	o
+CV_Regula	402	c	o
+
+397	0	3
+B_Desliga	486	c	o
+fecha	397	uc	o
+B_Liga	72	c	o
+
+396	0	3
+B_Desliga	485	c	o
+fecha	396	uc	o
+B_Liga	487	c	o
+
+395	0	3
+fecha	395	uc	o
+CV_Abre	487	c	o
+CV_Regula	72	c	o
+
+394	0	4
+CV_Fecha	483	c	o
+fecha	394	uc	o
+CV_Abre	485	c	o
+CV_Regula	486	c	o
+
+393	0	2
+B_Desliga	483	c	o
+fecha	484	uc	o
+
+392	0	3
+B_Desliga	70	c	o
+fecha	392	uc	o
+B_Liga	72	c	o
+
+391	0	3
+B_Desliga	71	c	o
+fecha	391	uc	o
+B_Liga	73	c	o
+
+390	0	3
+B_Desliga	482	c	o
+fecha	390	uc	o
+B_Liga	72	c	o
+
+389	0	4
+CV_Fecha	69	c	o
+fecha	389	uc	o
+CV_Abre	482	c	o
+CV_Regula	71	c	o
+
+388	0	2
+B_Desliga	69	c	o
+fecha	481	uc	o
+
+387	0	2
+fecha	474	uc	o
+regula	478	uc	o
+
+386	0	3
+B_Desliga	478	c	o
+CV_Abre	479	c	o
+CV_Regula	480	c	o
+
+385	0	4
+B_Desliga	475	c	o
+fecha	385	uc	o
+CV_Abre	476	c	o
+CV_Regula	477	c	o
+
+384	0	2
+fecha	474	uc	o
+abre	471	uc	o
+
+383	0	3
+B_Desliga	471	c	o
+CV_Abre	472	c	o
+CV_Regula	473	c	o
+
+382	0	5
+CV_Fecha	468	c	o
+B_Desliga	456	c	o
+B_Liga	457	c	o
+CV_Abre	469	c	o
+CV_Regula	470	c	o
+
+381	0	5
+CV_Fecha	465	c	o
+B_Desliga	49	c	o
+B_Liga	50	c	o
+CV_Abre	466	c	o
+CV_Regula	467	c	o
+
+380	0	1
+fecha	462	uc	o
+
+379	0	5
+CV_Fecha	461	c	o
+B_Desliga	462	c	o
+fecha	310	uc	o
+CV_Abre	463	c	o
+CV_Regula	464	c	o
+
+378	0	2
+fecha	395	uc	o
+regula	457	uc	o
+
+377	0	2
+fecha	394	uc	o
+regula	456	uc	o
+
+376	0	2
+fecha	54	uc	o
+abre	50	uc	o
+
+375	0	2
+fecha	53	uc	o
+abre	49	uc	o
+
+374	0	2
+fecha	435	uc	o
+abre	451	uc	o
+
+373	0	2
+fecha	395	uc	o
+regula	457	uc	o
+
+372	0	5
+B_Desliga	394	c	o
+fecha	372	uc	o
+B_Liga	395	c	o
+CV_Abre	460	c	o
+CV_Regula	415	c	o
+
+371	0	2
+fecha	394	uc	o
+regula	456	uc	o
+
+370	0	2
+fecha	435	uc	o
+abre	451	uc	o
+
+369	0	4
+B_Desliga	456	c	o
+B_Liga	457	c	o
+CV_Abre	458	c	o
+CV_Regula	459	c	o
+
+368	0	1
+CV_Abre	455	c	o
+
+367	0	2
+B_Liga	451	c	o
+CV_Abre	454	c	o
+
+366	0	1
+CV_Abre	453	c	o
+
+365	0	3
+fecha	435	uc	o
+abre	451	uc	o
+CV_Abre	437	c	o
+
+364	0	2
+B_Liga	451	c	o
+CV_Abre	452	c	o
+
+363	0	2
+fecha	263	uc	o
+CV_Abre	450	c	o
+
+362	0	1
+abre	48	uc	o
+
+361	0	1
+abre	448	uc	o
+
+360	0	2
+B_Liga	448	c	o
+CV_Abre	449	c	o
+
+359	0	2
+fecha	359	uc	o
+B_Liga	443	c	o
+
+358	0	5
+B_Desliga	444	c	o
+fecha	358	uc	o
+B_Liga	440	c	o
+CV_Abre	447	c	o
+CV_Regula	442	c	o
+
+357	0	2
+fecha	445	uc	o
+CV_Abre	446	c	o
+
+356	0	4
+B_Desliga	444	c	o
+fecha	356	uc	o
+B_Liga	445	c	o
+CV_Abre	436	c	o
+
+355	0	1
+fecha	444	uc	o
+
+354	0	1
+fecha	354	uc	o
+
+353	0	1
+fecha	353	uc	o
+
+352	0	1
+fecha	352	uc	o
+
+351	0	1
+fecha	351	uc	o
+
+350	0	1
+fecha	350	uc	o
+
+349	0	2
+fecha	349	uc	o
+B_Liga	443	c	o
+
+348	0	2
+fecha	440	uc	o
+CV_Abre	443	c	o
+
+347	0	5
+B_Desliga	439	c	o
+fecha	347	uc	o
+B_Liga	440	c	o
+CV_Abre	441	c	o
+CV_Regula	442	c	o
+
+346	0	1
+fecha	439	uc	o
+
+345	0	1
+fecha	345	uc	o
+
+344	0	2
+fecha	344	uc	o
+B_Liga	437	c	o
+
+343	0	3
+fecha	343	uc	o
+B_Liga	435	c	o
+CV_Abre	438	c	o
+
+342	0	2
+fecha	342	uc	o
+B_Liga	437	c	o
+
+341	0	2
+fecha	435	uc	o
+CV_Abre	437	c	o
+
+340	0	3
+fecha	340	uc	o
+B_Liga	435	c	o
+CV_Abre	436	c	o
+
+339	0	1
+fecha	339	uc	o
+
+338	0	5
+B_Desliga	434	c	o
+fecha	338	uc	o
+B_Liga	426	c	o
+CV_Abre	417	c	o
+CV_Regula	415	c	o
+
+337	0	4
+B_Desliga	431	c	o
+fecha	337	uc	o
+CV_Abre	414	c	o
+CV_Regula	415	c	o
+
+336	0	6
+CV_Fecha	411	c	o
+B_Desliga	433	c	o
+fecha	336	uc	o
+B_Liga	426	c	o
+CV_Abre	396	c	o
+CV_Regula	392	c	o
+
+335	0	6
+CV_Fecha	432	c	o
+B_Desliga	416	c	o
+fecha	335	uc	o
+B_Liga	54	c	o
+CV_Abre	397	c	o
+CV_Regula	391	c	o
+
+334	0	5
+CV_Fecha	393	c	o
+B_Desliga	431	c	o
+fecha	334	uc	o
+CV_Abre	424	c	o
+CV_Regula	397	c	o
+
+333	0	5
+CV_Fecha	428	c	o
+B_Desliga	429	c	o
+fecha	427	uc	o
+CV_Abre	430	c	o
+CV_Regula	401	c	o
+
+332	0	2
+fecha	332	uc	o
+d_SP	427	uc	o
+
+331	0	6
+CV_Fecha	393	c	o
+B_Desliga	425	c	o
+fecha	331	uc	o
+B_Liga	426	c	o
+CV_Abre	396	c	o
+CV_Regula	397	c	o
+
+330	0	5
+CV_Fecha	393	c	o
+B_Desliga	423	c	o
+fecha	330	uc	o
+CV_Abre	424	c	o
+CV_Regula	397	c	o
+
+329	0	3
+B_Desliga	421	c	o
+fecha	422	uc	o
+regula	386	uc	o
+
+328	0	2
+fecha	328	uc	o
+d_SP	372	uc	o
+
+327	0	3
+B_Desliga	419	c	o
+fecha	420	uc	o
+abre	383	uc	o
+
+326	0	2
+fecha	326	uc	o
+d_SP	46	uc	o
+
+325	0	4
+B_Desliga	377	c	o
+fecha	312	uc	o
+B_Liga	378	c	o
+regula	382	uc	o
+
+324	0	4
+B_Desliga	375	c	o
+fecha	311	uc	o
+abre	381	uc	o
+B_Liga	376	c	o
+
+323	0	2
+B_Desliga	418	c	o
+fecha	379	uc	o
+
+322	0	5
+B_Desliga	405	c	o
+fecha	322	uc	o
+B_Liga	395	c	o
+CV_Abre	417	c	o
+CV_Regula	415	c	o
+
+321	0	5
+B_Desliga	416	c	o
+fecha	321	uc	o
+B_Liga	54	c	o
+CV_Abre	415	c	o
+CV_Regula	56	c	o
+
+320	0	4
+B_Desliga	413	c	o
+fecha	320	uc	o
+CV_Abre	414	c	o
+CV_Regula	415	c	o
+
+319	0	6
+CV_Fecha	411	c	o
+B_Desliga	412	c	o
+fecha	319	uc	o
+B_Liga	395	c	o
+CV_Abre	396	c	o
+CV_Regula	392	c	o
+
+318	0	4
+B_Desliga	403	c	o
+fecha	318	uc	o
+CV_Abre	410	c	o
+CV_Regula	56	c	o
+
+317	0	6
+CV_Fecha	407	c	o
+B_Desliga	408	c	o
+fecha	317	uc	o
+B_Liga	54	c	o
+CV_Abre	392	c	o
+CV_Regula	409	c	o
+
+316	0	6
+CV_Fecha	404	c	o
+B_Desliga	405	c	o
+fecha	316	uc	o
+B_Liga	395	c	o
+CV_Abre	406	c	o
+CV_Regula	397	c	o
+
+315	0	5
+CV_Fecha	388	c	o
+B_Desliga	403	c	o
+fecha	315	uc	o
+CV_Abre	390	c	o
+CV_Regula	391	c	o
+
+314	0	5
+CV_Fecha	399	c	o
+B_Desliga	400	c	o
+fecha	398	uc	o
+CV_Abre	401	c	o
+CV_Regula	402	c	o
+
+313	0	2
+fecha	313	uc	o
+d_SP	398	uc	o
+
+312	0	6
+CV_Fecha	393	c	o
+B_Desliga	394	c	o
+fecha	312	uc	o
+B_Liga	395	c	o
+CV_Abre	396	c	o
+CV_Regula	397	c	o
+
+311	0	6
+CV_Fecha	388	c	o
+B_Desliga	53	c	o
+fecha	311	uc	o
+B_Liga	54	c	o
+CV_Abre	392	c	o
+CV_Regula	391	c	o
+
+310	0	5
+CV_Fecha	388	c	o
+B_Desliga	389	c	o
+fecha	310	uc	o
+CV_Abre	390	c	o
+CV_Regula	391	c	o
+
+309	0	3
+B_Desliga	387	c	o
+fecha	385	uc	o
+regula	386	uc	o
+
+308	0	2
+d_SP	369	uc	o
+u_HI_HI	386	uc	o
+
+307	0	3
+B_Desliga	384	c	o
+fecha	385	uc	o
+abre	383	uc	o
+
+306	0	1
+u_HI_HI	383	uc	o
+
+305	0	4
+B_Desliga	371	c	o
+fecha	312	uc	o
+B_Liga	373	c	o
+regula	382	uc	o
+
+304	0	1
+d_SP	382	uc	o
+
+303	0	4
+B_Desliga	45	c	o
+fecha	311	uc	o
+abre	381	uc	o
+B_Liga	47	c	o
+
+302	0	1
+d_SP	381	uc	o
+
+301	0	2
+B_Desliga	380	c	o
+fecha	379	uc	o
+
+300	0	2
+fecha	228	uc	o
+d_SP	379	uc	o
+
+299	0	4
+B_Desliga	377	c	o
+fecha	372	uc	o
+B_Liga	378	c	o
+regula	369	uc	o
+
+298	0	2
+fecha	267	uc	o
+regula	368	uc	o
+
+297	0	4
+B_Desliga	375	c	o
+fecha	46	uc	o
+abre	43	uc	o
+B_Liga	376	c	o
+
+296	0	3
+fecha	343	uc	o
+abre	367	uc	o
+B_Liga	374	c	o
+
+295	0	2
+fecha	265	uc	o
+regula	366	uc	o
+
+294	0	3
+fecha	340	uc	o
+abre	364	uc	o
+B_Liga	374	c	o
+
+293	0	1
+fecha	363	uc	o
+
+292	0	4
+B_Desliga	371	c	o
+fecha	372	uc	o
+B_Liga	373	c	o
+regula	369	uc	o
+
+291	0	4
+B_Desliga	45	c	o
+fecha	46	uc	o
+abre	43	uc	o
+B_Liga	47	c	o
+
+290	0	2
+fecha	265	uc	o
+regula	366	uc	o
+
+289	0	3
+fecha	340	uc	o
+abre	364	uc	o
+B_Liga	370	c	o
+
+288	0	1
+fecha	363	uc	o
+
+287	0	2
+d_LO_LO	368	uc	o
+u_SP	369	uc	o
+
+286	0	4
+fecha	267	uc	o
+CV_Abre	345	c	o
+regula	368	uc	o
+CV_Regula	345	c	o
+
+285	0	4
+fecha	343	uc	o
+abre	367	uc	o
+B_Liga	365	c	o
+CV_Abre	344	c	o
+
+284	0	1
+u_SP	43	uc	o
+
+283	0	1
+d_LO_LO	366	uc	o
+
+282	0	3
+fecha	265	uc	o
+CV_Abre	339	c	o
+regula	366	uc	o
+
+281	0	1
+d_LO_LO	364	uc	o
+
+280	0	4
+fecha	340	uc	o
+abre	364	uc	o
+B_Liga	365	c	o
+CV_Abre	342	c	o
+
+279	0	2
+fecha	363	uc	o
+CV_Abre	339	c	o
+
+278	0	2
+fecha	163	uc	o
+d_LO_LO	363	uc	o
+
+277	0	2
+B_Desliga	362	c	o
+abre	42	uc	o
+
+276	0	2
+abre	360	uc	o
+B_Liga	361	c	o
+
+275	0	5
+B_Desliga	355	c	o
+fecha	358	uc	o
+B_Liga	348	c	o
+CV_Abre	359	c	o
+CV_Regula	350	c	o
+
+274	0	4
+B_Desliga	355	c	o
+fecha	356	uc	o
+B_Liga	357	c	o
+CV_Abre	342	c	o
+
+273	0	3
+fecha	273	uc	o
+CV_Abre	345	c	o
+CV_Regula	350	c	o
+
+272	0	2
+fecha	272	uc	o
+CV_Abre	339	c	o
+
+271	0	4
+CV_Fecha	353	c	o
+fecha	271	uc	o
+CV_Abre	354	c	o
+CV_Regula	354	c	o
+
+270	0	4
+CV_Fecha	351	c	o
+fecha	270	uc	o
+CV_Abre	352	c	o
+CV_Regula	352	c	o
+
+269	0	3
+fecha	269	uc	o
+CV_Abre	350	c	o
+CV_Regula	350	c	o
+
+268	0	5
+B_Desliga	346	c	o
+fecha	347	uc	o
+B_Liga	348	c	o
+CV_Abre	349	c	o
+CV_Regula	350	c	o
+
+267	0	3
+fecha	267	uc	o
+CV_Abre	345	c	o
+CV_Regula	345	c	o
+
+266	0	3
+fecha	343	uc	o
+B_Liga	341	c	o
+CV_Abre	344	c	o
+
+265	0	2
+fecha	265	uc	o
+CV_Abre	339	c	o
+
+264	0	3
+fecha	340	uc	o
+B_Liga	341	c	o
+CV_Abre	342	c	o
+
+263	0	2
+fecha	263	uc	o
+CV_Abre	339	c	o
+
+262	0	2
+fecha	262	uc	o
+d_SP	338	uc	o
+
+261	0	2
+fecha	261	uc	o
+d_SP	337	uc	o
+
+260	0	2
+fecha	260	uc	o
+d_SP	336	uc	o
+
+259	0	2
+fecha	259	uc	o
+d_SP	335	uc	o
+
+258	0	2
+fecha	258	uc	o
+d_SP	334	uc	o
+
+257	0	2
+fecha	332	uc	o
+d_SP	333	uc	o
+
+256	0	2
+fecha	256	uc	o
+d_SP	331	uc	o
+
+255	0	2
+fecha	255	uc	o
+d_SP	330	uc	o
+
+254	0	4
+fecha	328	uc	o
+regula	308	uc	o
+d_SP	299	uc	o
+u_HI_HI	329	uc	o
+
+253	0	3
+B_Desliga	230	c	o
+fecha	253	uc	o
+B_Liga	328	c	o
+
+252	0	3
+fecha	230	uc	o
+regula	304	uc	o
+d_SP	325	uc	o
+
+251	0	4
+fecha	326	uc	o
+abre	306	uc	o
+d_SP	297	uc	o
+u_HI_HI	327	uc	o
+
+250	0	3
+B_Desliga	229	c	o
+fecha	250	uc	o
+B_Liga	326	c	o
+
+249	0	3
+fecha	229	uc	o
+abre	302	uc	o
+d_SP	324	uc	o
+
+248	0	4
+fecha	328	uc	o
+regula	308	uc	o
+d_SP	299	uc	o
+u_HI_HI	329	uc	o
+
+247	0	4
+fecha	326	uc	o
+abre	306	uc	o
+d_SP	297	uc	o
+u_HI_HI	327	uc	o
+
+246	0	3
+fecha	230	uc	o
+regula	304	uc	o
+d_SP	325	uc	o
+
+245	0	3
+fecha	229	uc	o
+abre	302	uc	o
+d_SP	324	uc	o
+
+244	0	2
+fecha	300	uc	o
+d_SP	323	uc	o
+
+243	0	2
+B_Desliga	283	c	o
+B_Liga	287	c	o
+
+242	0	3
+B_Desliga	165	c	o
+fecha	242	uc	o
+B_Liga	167	c	o
+
+241	0	2
+B_Desliga	281	c	o
+B_Liga	284	c	o
+
+240	0	3
+B_Desliga	164	c	o
+fecha	240	uc	o
+B_Liga	166	c	o
+
+239	0	2
+fecha	239	uc	o
+d_SP	322	uc	o
+
+238	0	2
+fecha	238	uc	o
+d_SP	321	uc	o
+
+237	0	2
+fecha	237	uc	o
+d_SP	320	uc	o
+
+236	0	2
+fecha	236	uc	o
+d_SP	319	uc	o
+
+235	0	2
+fecha	235	uc	o
+d_SP	318	uc	o
+
+234	0	2
+fecha	234	uc	o
+d_SP	317	uc	o
+
+233	0	2
+fecha	233	uc	o
+d_SP	316	uc	o
+
+232	0	2
+fecha	232	uc	o
+d_SP	315	uc	o
+
+231	0	2
+fecha	313	uc	o
+d_SP	314	uc	o
+
+230	0	2
+fecha	230	uc	o
+d_SP	312	uc	o
+
+229	0	2
+fecha	229	uc	o
+d_SP	311	uc	o
+
+228	0	2
+fecha	228	uc	o
+d_SP	310	uc	o
+
+227	0	2
+B_Desliga	304	c	o
+B_Liga	308	c	o
+
+226	0	3
+fecha	239	uc	o
+regula	308	uc	o
+u_HI_HI	309	uc	o
+
+225	0	3
+B_Desliga	230	c	o
+fecha	225	uc	o
+B_Liga	239	c	o
+
+224	0	3
+fecha	230	uc	o
+regula	304	uc	o
+d_SP	305	uc	o
+
+223	0	3
+fecha	238	uc	o
+abre	306	uc	o
+u_HI_HI	307	uc	o
+
+222	0	2
+B_Desliga	302	c	o
+B_Liga	306	c	o
+
+221	0	3
+B_Desliga	229	c	o
+fecha	221	uc	o
+B_Liga	238	c	o
+
+220	0	3
+fecha	229	uc	o
+abre	302	uc	o
+d_SP	303	uc	o
+
+219	0	3
+fecha	239	uc	o
+regula	308	uc	o
+u_HI_HI	309	uc	o
+
+218	0	3
+fecha	238	uc	o
+abre	306	uc	o
+u_HI_HI	307	uc	o
+
+217	0	3
+fecha	230	uc	o
+regula	304	uc	o
+d_SP	305	uc	o
+
+216	0	3
+fecha	229	uc	o
+abre	302	uc	o
+d_SP	303	uc	o
+
+215	0	2
+fecha	300	uc	o
+d_SP	301	uc	o
+
+214	0	4
+fecha	167	uc	o
+d_LO_LO	298	uc	o
+u_SP	299	uc	o
+regula	287	uc	o
+
+213	0	3
+fecha	165	uc	o
+d_LO_LO	295	uc	o
+regula	283	uc	o
+
+212	0	4
+fecha	166	uc	o
+d_LO_LO	296	uc	o
+abre	284	uc	o
+u_SP	297	uc	o
+
+211	0	3
+fecha	164	uc	o
+d_LO_LO	294	uc	o
+abre	281	uc	o
+
+210	0	4
+fecha	167	uc	o
+d_LO_LO	298	uc	o
+u_SP	299	uc	o
+regula	287	uc	o
+
+209	0	4
+fecha	166	uc	o
+d_LO_LO	296	uc	o
+abre	284	uc	o
+u_SP	297	uc	o
+
+208	0	3
+fecha	165	uc	o
+d_LO_LO	295	uc	o
+regula	283	uc	o
+
+207	0	3
+fecha	164	uc	o
+d_LO_LO	294	uc	o
+abre	281	uc	o
+
+206	0	2
+fecha	278	uc	o
+d_LO_LO	293	uc	o
+
+205	0	2
+fecha	278	uc	o
+d_LO_LO	293	uc	o
+
+204	0	3
+fecha	169	uc	o
+u_SP	292	uc	o
+regula	287	uc	o
+
+203	0	3
+fecha	165	uc	o
+d_LO_LO	290	uc	o
+regula	283	uc	o
+
+202	0	3
+fecha	168	uc	o
+abre	284	uc	o
+u_SP	291	uc	o
+
+201	0	3
+fecha	164	uc	o
+d_LO_LO	289	uc	o
+abre	281	uc	o
+
+200	0	3
+fecha	169	uc	o
+u_SP	292	uc	o
+regula	287	uc	o
+
+199	0	3
+fecha	168	uc	o
+abre	284	uc	o
+u_SP	291	uc	o
+
+198	0	3
+fecha	165	uc	o
+d_LO_LO	290	uc	o
+regula	283	uc	o
+
+197	0	3
+fecha	164	uc	o
+d_LO_LO	289	uc	o
+abre	281	uc	o
+
+196	0	2
+fecha	278	uc	o
+d_LO_LO	288	uc	o
+
+195	0	2
+fecha	278	uc	o
+d_LO_LO	288	uc	o
+
+194	0	2
+B_Desliga	283	c	o
+B_Liga	287	c	o
+
+193	0	3
+fecha	167	uc	o
+d_LO_LO	286	uc	o
+regula	287	uc	o
+
+192	0	3
+fecha	165	uc	o
+d_LO_LO	282	uc	o
+regula	283	uc	o
+
+191	0	3
+fecha	166	uc	o
+d_LO_LO	285	uc	o
+abre	284	uc	o
+
+190	0	2
+B_Desliga	281	c	o
+B_Liga	284	c	o
+
+189	0	3
+fecha	164	uc	o
+d_LO_LO	280	uc	o
+abre	281	uc	o
+
+188	0	3
+fecha	165	uc	o
+d_LO_LO	282	uc	o
+regula	283	uc	o
+
+187	0	3
+fecha	164	uc	o
+d_LO_LO	280	uc	o
+abre	281	uc	o
+
+186	0	2
+fecha	278	uc	o
+d_LO_LO	279	uc	o
+
+185	0	2
+B_Desliga	278	c	o
+fecha	112	uc	o
+
+184	0	2
+fecha	278	uc	o
+d_LO_LO	279	uc	o
+
+183	0	1
+B_Desliga	10	c	o
+
+182	0	3
+d_LO_LO	276	uc	o
+abre	36	uc	o
+Stop	277	uc	o
+
+181	0	1
+B_Liga	36	c	o
+
+180	0	2
+fecha	180	uc	o
+d_LO_LO	275	uc	o
+
+179	0	2
+fecha	179	uc	o
+d_LO_LO	274	uc	o
+
+178	0	2
+fecha	178	uc	o
+d_LO_LO	271	uc	o
+
+177	0	2
+fecha	177	uc	o
+d_LO_LO	264	uc	o
+
+176	0	2
+fecha	176	uc	o
+d_LO_LO	270	uc	o
+
+175	0	2
+fecha	175	uc	o
+d_LO_LO	273	uc	o
+
+174	0	2
+fecha	174	uc	o
+d_LO_LO	272	uc	o
+
+173	0	2
+fecha	173	uc	o
+d_LO_LO	269	uc	o
+
+172	0	2
+fecha	172	uc	o
+d_LO_LO	271	uc	o
+
+171	0	2
+fecha	171	uc	o
+d_LO_LO	265	uc	o
+
+170	0	2
+fecha	170	uc	o
+d_LO_LO	270	uc	o
+
+169	0	2
+fecha	169	uc	o
+d_LO_LO	269	uc	o
+
+168	0	2
+fecha	168	uc	o
+d_LO_LO	268	uc	o
+
+167	0	2
+fecha	167	uc	o
+d_LO_LO	267	uc	o
+
+166	0	2
+fecha	166	uc	o
+d_LO_LO	266	uc	o
+
+165	0	2
+fecha	165	uc	o
+d_LO_LO	265	uc	o
+
+164	0	2
+fecha	164	uc	o
+d_LO_LO	264	uc	o
+
+163	0	2
+fecha	163	uc	o
+d_LO_LO	263	uc	o
+
+162	0	3
+fecha	162	uc	o
+CV_Abre	262	c	o
+CV_Regula	238	c	o
+
+161	0	3
+B_Desliga	260	c	o
+fecha	161	uc	o
+B_Liga	261	c	o
+
+160	0	4
+CV_Fecha	257	c	o
+fecha	160	uc	o
+CV_Abre	258	c	o
+CV_Regula	259	c	o
+
+159	0	4
+CV_Fecha	255	c	o
+fecha	159	uc	o
+CV_Abre	256	c	o
+CV_Regula	229	c	o
+
+158	0	4
+B_Desliga	252	c	o
+fecha	253	uc	o
+B_Liga	254	c	o
+regula	227	uc	o
+
+157	0	4
+B_Desliga	249	c	o
+fecha	250	uc	o
+abre	222	uc	o
+B_Liga	251	c	o
+
+156	0	2
+CV_Abre	247	c	o
+CV_Regula	248	c	o
+
+155	0	3
+CV_Fecha	244	c	o
+CV_Abre	245	c	o
+CV_Regula	246	c	o
+
+154	0	4
+B_Desliga	213	c	o
+fecha	242	uc	o
+B_Liga	214	c	o
+regula	243	uc	o
+
+153	0	4
+B_Desliga	211	c	o
+fecha	240	uc	o
+abre	241	uc	o
+B_Liga	212	c	o
+
+152	0	3
+fecha	152	uc	o
+CV_Abre	238	c	o
+CV_Regula	239	c	o
+
+151	0	3
+B_Desliga	236	c	o
+fecha	151	uc	o
+B_Liga	237	c	o
+
+150	0	3
+B_Desliga	234	c	o
+fecha	150	uc	o
+B_Liga	235	c	o
+
+149	0	4
+CV_Fecha	231	c	o
+fecha	149	uc	o
+CV_Abre	232	c	o
+CV_Regula	233	c	o
+
+148	0	4
+CV_Fecha	228	c	o
+fecha	148	uc	o
+CV_Abre	229	c	o
+CV_Regula	230	c	o
+
+147	0	4
+B_Desliga	224	c	o
+fecha	225	uc	o
+B_Liga	226	c	o
+regula	227	uc	o
+
+146	0	4
+B_Desliga	220	c	o
+fecha	221	uc	o
+abre	222	uc	o
+B_Liga	223	c	o
+
+145	0	2
+CV_Abre	218	c	o
+CV_Regula	219	c	o
+
+144	0	3
+CV_Fecha	215	c	o
+CV_Abre	216	c	o
+CV_Regula	217	c	o
+
+143	0	4
+B_Desliga	213	c	o
+fecha	115	uc	o
+B_Liga	214	c	o
+regula	194	uc	o
+
+142	0	4
+B_Desliga	211	c	o
+fecha	114	uc	o
+abre	190	uc	o
+B_Liga	212	c	o
+
+141	0	2
+CV_Abre	209	c	o
+CV_Regula	210	c	o
+
+140	0	3
+CV_Fecha	206	c	o
+CV_Abre	207	c	o
+CV_Regula	208	c	o
+
+139	0	2
+B_Desliga	205	c	o
+fecha	185	uc	o
+
+138	0	4
+B_Desliga	203	c	o
+fecha	119	uc	o
+B_Liga	204	c	o
+regula	194	uc	o
+
+137	0	4
+B_Desliga	201	c	o
+fecha	118	uc	o
+abre	190	uc	o
+B_Liga	202	c	o
+
+136	0	2
+CV_Abre	199	c	o
+CV_Regula	200	c	o
+
+135	0	3
+CV_Fecha	196	c	o
+CV_Abre	197	c	o
+CV_Regula	198	c	o
+
+134	0	2
+B_Desliga	195	c	o
+fecha	185	uc	o
+
+133	0	4
+B_Desliga	192	c	o
+fecha	115	uc	o
+B_Liga	193	c	o
+regula	194	uc	o
+
+132	0	4
+B_Desliga	189	c	o
+fecha	114	uc	o
+abre	190	uc	o
+B_Liga	191	c	o
+
+131	0	4
+CV_Fecha	186	c	o
+fecha	113	uc	o
+CV_Abre	187	c	o
+CV_Regula	188	c	o
+
+130	0	2
+B_Desliga	184	c	o
+fecha	185	uc	o
+
+129	0	1
+CV_Fecha	5	c	o
+
+128	0	2
+B_Desliga	5	c	o
+fecha	183	uc	o
+
+127	0	2
+abre	181	uc	o
+B_Liga	182	c	o
+
+126	0	3
+B_Desliga	174	c	o
+fecha	126	uc	o
+B_Liga	175	c	o
+
+125	0	3
+B_Desliga	179	c	o
+fecha	125	uc	o
+B_Liga	180	c	o
+
+124	0	4
+CV_Fecha	176	c	o
+fecha	124	uc	o
+CV_Abre	177	c	o
+CV_Regula	178	c	o
+
+123	0	3
+B_Desliga	174	c	o
+fecha	123	uc	o
+B_Liga	175	c	o
+
+122	0	3
+fecha	122	uc	o
+CV_Abre	169	c	o
+CV_Regula	173	c	o
+
+121	0	4
+CV_Fecha	170	c	o
+fecha	121	uc	o
+CV_Abre	171	c	o
+CV_Regula	172	c	o
+
+120	0	2
+B_Desliga	170	c	o
+fecha	120	uc	o
+
+119	0	3
+B_Desliga	165	c	o
+fecha	119	uc	o
+B_Liga	169	c	o
+
+118	0	3
+B_Desliga	164	c	o
+fecha	118	uc	o
+B_Liga	168	c	o
+
+117	0	3
+fecha	117	uc	o
+CV_Abre	168	c	o
+CV_Regula	169	c	o
+
+116	0	4
+CV_Fecha	163	c	o
+fecha	116	uc	o
+CV_Abre	164	c	o
+CV_Regula	165	c	o
+
+115	0	3
+B_Desliga	165	c	o
+fecha	115	uc	o
+B_Liga	167	c	o
+
+114	0	3
+B_Desliga	164	c	o
+fecha	114	uc	o
+B_Liga	166	c	o
+
+113	0	4
+CV_Fecha	163	c	o
+fecha	113	uc	o
+CV_Abre	164	c	o
+CV_Regula	165	c	o
+
+112	0	2
+B_Desliga	163	c	o
+fecha	112	uc	o
+
+111	0	2
+fecha	162	uc	o
+regula	156	uc	o
+
+110	0	4
+B_Desliga	160	c	o
+fecha	110	uc	o
+CV_Abre	161	c	o
+CV_Regula	150	c	o
+
+109	0	2
+fecha	159	uc	o
+regula	155	uc	o
+
+108	0	4
+B_Desliga	155	c	o
+B_Liga	156	c	o
+CV_Abre	157	c	o
+CV_Regula	158	c	o
+
+107	0	4
+B_Desliga	140	c	o
+B_Liga	141	c	o
+CV_Abre	153	c	o
+CV_Regula	154	c	o
+
+106	0	2
+fecha	152	uc	o
+abre	145	uc	o
+
+105	0	4
+B_Desliga	149	c	o
+fecha	105	uc	o
+CV_Abre	150	c	o
+CV_Regula	151	c	o
+
+104	0	2
+fecha	148	uc	o
+abre	144	uc	o
+
+103	0	4
+B_Desliga	144	c	o
+B_Liga	145	c	o
+CV_Abre	146	c	o
+CV_Regula	147	c	o
+
+102	0	2
+fecha	122	uc	o
+regula	141	uc	o
+
+101	0	2
+fecha	121	uc	o
+regula	140	uc	o
+
+100	0	5
+CV_Fecha	139	c	o
+B_Desliga	140	c	o
+B_Liga	141	c	o
+CV_Abre	142	c	o
+CV_Regula	143	c	o
+
+99	0	2
+fecha	117	uc	o
+abre	136	uc	o
+
+98	0	2
+fecha	116	uc	o
+abre	135	uc	o
+
+97	0	5
+CV_Fecha	134	c	o
+B_Desliga	135	c	o
+B_Liga	136	c	o
+CV_Abre	137	c	o
+CV_Regula	138	c	o
+
+96	0	1
+fecha	131	uc	o
+
+95	0	5
+CV_Fecha	130	c	o
+B_Desliga	131	c	o
+fecha	87	uc	o
+CV_Abre	132	c	o
+CV_Regula	133	c	o
+
+94	0	1
+fecha	129	uc	o
+
+93	0	2
+CV_Fecha	128	c	o
+B_Desliga	129	c	o
+
+92	0	1
+CV_Abre	127	c	o
+
+91	0	4
+B_Desliga	121	c	o
+fecha	91	uc	o
+B_Liga	122	c	o
+CV_Abre	126	c	o
+
+90	0	4
+B_Desliga	124	c	o
+fecha	90	uc	o
+B_Liga	117	c	o
+CV_Abre	125	c	o
+
+89	0	5
+CV_Fecha	120	c	o
+B_Desliga	121	c	o
+fecha	89	uc	o
+B_Liga	122	c	o
+CV_Abre	123	c	o
+
+88	0	6
+CV_Fecha	112	c	o
+B_Desliga	116	c	o
+fecha	88	uc	o
+B_Liga	117	c	o
+CV_Abre	118	c	o
+CV_Regula	119	c	o
+
+87	0	5
+CV_Fecha	112	c	o
+B_Desliga	113	c	o
+fecha	87	uc	o
+CV_Abre	114	c	o
+CV_Regula	115	c	o
+
+86	0	4
+B_Desliga	109	c	o
+fecha	110	uc	o
+B_Liga	111	c	o
+regula	108	uc	o
+
+85	0	2
+d_LO	107	uc	o
+u_HI	108	uc	o
+
+84	0	4
+B_Desliga	104	c	o
+fecha	105	uc	o
+abre	103	uc	o
+B_Liga	106	c	o
+
+83	0	1
+u_HI	103	uc	o
+
+82	0	4
+B_Desliga	101	c	o
+fecha	89	uc	o
+B_Liga	102	c	o
+regula	100	uc	o
+
+81	0	1
+d_LO	100	uc	o
+
+80	0	4
+B_Desliga	98	c	o
+fecha	88	uc	o
+abre	97	uc	o
+B_Liga	99	c	o
+
+79	0	1
+d_LO	97	uc	o
+
+78	0	2
+B_Desliga	96	c	o
+fecha	95	uc	o
+
+77	0	2
+fecha	69	uc	o
+d_LO	95	uc	o
+
+76	0	2
+B_Desliga	94	c	o
+fecha	93	uc	o
+
+75	0	2
+Start	92	c	o
+d_LO_LO	93	uc	o
+
+74	0	1
+fecha	92	uc	o
+
+73	0	2
+fecha	73	uc	o
+d_LO	91	uc	o
+
+72	0	2
+fecha	72	uc	o
+d_LO	90	uc	o
+
+71	0	2
+fecha	71	uc	o
+d_LO	89	uc	o
+
+70	0	2
+fecha	70	uc	o
+d_LO	88	uc	o
+
+69	0	2
+fecha	69	uc	o
+d_LO	87	uc	o
+
+68	0	2
+B_Desliga	81	c	o
+B_Liga	85	c	o
+
+67	0	3
+fecha	73	uc	o
+regula	85	uc	o
+u_HI	86	uc	o
+
+66	0	3
+fecha	71	uc	o
+regula	81	uc	o
+d_LO	82	uc	o
+
+65	0	3
+fecha	72	uc	o
+abre	83	uc	o
+u_HI	84	uc	o
+
+64	0	2
+B_Desliga	79	c	o
+B_Liga	83	c	o
+
+63	0	3
+fecha	70	uc	o
+abre	79	uc	o
+d_LO	80	uc	o
+
+62	0	3
+fecha	73	uc	o
+regula	85	uc	o
+u_HI	86	uc	o
+
+61	0	3
+fecha	72	uc	o
+abre	83	uc	o
+u_HI	84	uc	o
+
+60	0	3
+fecha	71	uc	o
+regula	81	uc	o
+d_LO	82	uc	o
+
+59	0	3
+fecha	70	uc	o
+abre	79	uc	o
+d_LO	80	uc	o
+
+58	0	2
+fecha	77	uc	o
+d_LO	78	uc	o
+
+57	0	3
+Start	74	c	o
+fecha	75	uc	o
+d_LO_LO	76	uc	o
+
+56	0	3
+B_Desliga	71	c	o
+fecha	56	uc	o
+B_Liga	73	c	o
+
+55	0	3
+B_Desliga	70	c	o
+fecha	55	uc	o
+B_Liga	72	c	o
+
+54	0	3
+fecha	54	uc	o
+CV_Abre	72	c	o
+CV_Regula	73	c	o
+
+53	0	4
+CV_Fecha	69	c	o
+fecha	53	uc	o
+CV_Abre	70	c	o
+CV_Regula	71	c	o
+
+52	0	4
+B_Desliga	66	c	o
+fecha	56	uc	o
+B_Liga	67	c	o
+regula	68	uc	o
+
+51	0	4
+B_Desliga	63	c	o
+fecha	55	uc	o
+abre	64	uc	o
+B_Liga	65	c	o
+
+50	0	2
+CV_Abre	61	c	o
+CV_Regula	62	c	o
+
+49	0	3
+CV_Fecha	58	c	o
+CV_Abre	59	c	o
+CV_Regula	60	c	o
+
+48	0	1
+CV_Fecha	57	c	o
+
+47	0	2
+fecha	54	uc	o
+abre	50	uc	o
+
+46	0	5
+B_Desliga	53	c	o
+fecha	46	uc	o
+B_Liga	54	c	o
+CV_Abre	55	c	o
+CV_Regula	56	c	o
+
+45	0	2
+fecha	53	uc	o
+abre	49	uc	o
+
+44	0	1
+abre	48	uc	o
+
+43	0	4
+B_Desliga	49	c	o
+B_Liga	50	c	o
+CV_Abre	51	c	o
+CV_Regula	52	c	o
+
+42	0	1
+B_Desliga	48	c	o
+
+41	0	3
+underflow	34	uc	o
+Start	35	c	o
+fecha	3	uc	o
+
+40	0	1
+abre	23	uc	o
+
+39	0	1
+abre	22	uc	o
+
+38	0	4
+B_Desliga	45	c	o
+fecha	46	uc	o
+abre	43	uc	o
+B_Liga	47	c	o
+
+37	0	2
+B_Desliga	44	c	o
+abre	42	uc	o
+
+36	0	2
+Stop	42	uc	o
+u_SP	43	uc	o
+
+35	0	1
+fecha	4	uc	o
+
+34	0	4
+B_Desliga	41	c	o
+underflow	34	uc	o
+Start	35	c	o
+fecha	1	uc	o
+
+33	0	2
+abre	18	uc	o
+B_Liga	40	c	o
+
+32	0	2
+B_Desliga	39	c	o
+abre	17	uc	o
+
+31	0	3
+B_Liga	14	c	o
+Stop	17	uc	o
+u_LO	18	uc	o
+
+30	0	3
+abre	14	uc	o
+Stop	32	uc	o
+u_LO	33	uc	o
+
+29	0	1
+B_Liga	36	c	o
+
+28	0	3
+abre	36	uc	o
+Stop	37	uc	o
+u_SP	38	uc	o
+
+27	0	3
+underflow	34	uc	o
+Start	35	c	o
+fecha	10	uc	o
+
+26	0	4
+abre	31	uc	o
+B_Liga	30	c	o
+Stop	32	uc	o
+u_LO	33	uc	o
+
+25	0	3
+CV_Abre	30	c	o
+Stop	17	uc	o
+u_LO	18	uc	o
+
+24	0	2
+abre	29	uc	o
+B_Liga	28	c	o
+
+23	0	1
+CV_Abre	28	c	o
+
+22	0	1
+CV_Fecha	27	c	o
+
+21	0	1
+abre	22	uc	o
+
+20	0	3
+underflow	15	uc	o
+abre	25	uc	o
+Stop	16	uc	o
+
+19	0	4
+B_Liga	25	c	o
+CV_Abre	26	c	o
+Stop	17	uc	o
+u_LO	18	uc	o
+
+18	0	2
+B_Liga	23	c	o
+CV_Abre	24	c	o
+
+17	0	1
+B_Desliga	22	c	o
+
+16	0	2
+B_Desliga	21	c	o
+abre	17	uc	o
+
+15	0	4
+underflow	15	uc	o
+abre	19	uc	o
+B_Liga	20	c	o
+Stop	16	uc	o
+
+14	0	2
+Stop	17	uc	o
+u_LO	18	uc	o
+
+13	0	3
+underflow	15	uc	o
+abre	14	uc	o
+Stop	16	uc	o
+
+12	0	1
+B_Liga	14	c	o
+
+11	0	3
+underflow	6	uc	o
+Start	7	c	o
+fecha	3	uc	o
+
+10	1	2
+underflow	1	uc	o
+Start	4	c	o
+
+9	0	2
+abre	12	uc	o
+B_Liga	13	c	o
+
+8	1	3
+B_Desliga	10	c	o
+underflow	1	uc	o
+Start	4	c	o
+
+7	0	1
+fecha	4	uc	o
+
+6	0	4
+B_Desliga	11	c	o
+underflow	6	uc	o
+Start	7	c	o
+fecha	1	uc	o
+
+5	0	3
+underflow	6	uc	o
+Start	7	c	o
+fecha	10	uc	o
+
+4	0	1
+CV_Abre	9	c	o
+
+3	1	3
+CV_Fecha	5	c	o
+underflow	1	uc	o
+Start	4	c	o
+
+2	0	4
+B_Desliga	5	c	o
+underflow	6	uc	o
+Start	7	c	o
+fecha	8	uc	o
+
+EVENTS
+f1	uc	uo
+overflow	uc	o
